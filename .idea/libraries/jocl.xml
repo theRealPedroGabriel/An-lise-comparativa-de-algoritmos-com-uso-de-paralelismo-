@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jocl" type="repository">
+    <properties maven-id="org.jocl:jocl:2.0.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jocl/jocl/2.0.5/jocl-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
